@@ -4,6 +4,8 @@ This python project employs scikit-learn to classify whether a person has cardio
 
 Following Google's recent advancement with AI to detect breast cancer, this project tries to emulate that process in other diseases, in this case, cardiovascular ones. 
 
+More documentation of the code can be found inside the .pynb file.
+
 # Built With
 
 * [Google Colab](https://colab.research.google.com)
