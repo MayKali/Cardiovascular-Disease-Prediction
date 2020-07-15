@@ -6,7 +6,7 @@ Following Google's recent advancement with AI to detect breast cancer, this proj
 
 More documentation of the code can be found inside the .pynb file.
 
-# Built With
+## Built With
 
 * [Google Colab](https://colab.research.google.com)
 * [Python3](https://www.python.org/downloads/)
@@ -17,9 +17,13 @@ More documentation of the code can be found inside the .pynb file.
 * [Pandas](http://pandas.pydata.org/)
 
 
-# Datasets used
+## Datasets used
 
 This project makes use of the dataset found on kaggle which consists of 70,000 records of patients data. 
 
 * [Cardiovascular Disease dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
+
+## License
+
+This project is licenced under the MIT License - see the [LICENSE](LICENSE) file for details.
 
