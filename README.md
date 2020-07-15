@@ -23,6 +23,9 @@ This project makes use of the dataset found on kaggle which consists of 70,000 r
 
 * [Cardiovascular Disease dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset)
 
+### Note: 
+There was a problem with trying getting the data into the right format, i.e. the columns would not separate. To fix this, simply go into excel and under Data tools in the data tab, click on "Text to Columns", select your data type as delimited, and your delimiters as semicolon, then click finish. You can then exit and save your file as .csv and it should be fixed. 
+
 ## License
 
 This project is licenced under the MIT License - see the [LICENSE](LICENSE) file for details.
