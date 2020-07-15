@@ -6,13 +6,13 @@ Following Google's recent advancement with AI to detect breast cancer, this proj
 
 # Built With
 
-* [Google Colab] (https://colab.research.google.com)
-* [Python3] (https://www.python.org/downloads/)
-* [Numpy] (http://www.numpy.org/)
-* [Scikit-Learn] (https://scikit-learn.org/)
-* [Matplotlib] (https://matplotlib.org/)
-* [Seaborn] (https://seaborn.pydata.org/)
-* [Pandas] (http://pandas.pydata.org/)
+* [Google Colab](https://colab.research.google.com)
+* [Python3](https://www.python.org/downloads/)
+* [Numpy](http://www.numpy.org/)
+* [Scikit-Learn](https://scikit-learn.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Pandas](http://pandas.pydata.org/)
 
 
 # Datasets used
